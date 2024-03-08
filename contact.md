@@ -11,7 +11,7 @@
 
 N'hésitez pas une seule seconde, contactez-moi !
 
-:mailbox_with_mail:[john.doe@exemple.com](john.doe@exemple.com)
+:mailbox_with_mail : john.doe@exemple.com
 
 :telephone_receiver:06 06 06 06 06
 
