@@ -9,7 +9,7 @@
 
 # CV
 
-## John Doe
+**John Doe**
 
 256 avenue du web
 
@@ -17,19 +17,19 @@
 
 [john.doe@exemple.com](john.doe@exemple.com)
 
-## Expériences
+**Expériences**
 
 * 2022 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 * 2020 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 * 2019 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-## Formation
+**Formation**
 
 * 2016 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 * 2015 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 * 2013 - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-## Autres
+**Autres**
 
 * Permis B
 * Escalade
