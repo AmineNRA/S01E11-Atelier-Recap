@@ -15,4 +15,6 @@
 |Google|2021|Node.js|[Google](https://www.google.com/)
 |Mme Michu|2017|HTML, CSS|[Mme Michu](https://en.wiktionary.org/wiki/Madame_Michu)
 
+___
+
 © 2022 - Jogn Doe - [Me contacter](contact.md)

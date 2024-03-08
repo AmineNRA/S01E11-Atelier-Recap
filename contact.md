@@ -19,4 +19,6 @@ N'hésitez pas une seule seconde, contactez-moi !
 
 :bird:[Twitter](https://twitter.com/?lang=en)
 
+___
+
 © 2022 - Jogn Doe - [Me contacter](contact.md)
