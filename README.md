@@ -4,7 +4,7 @@
 
 *Développeur web junior, en formation "Développement Web et Accessibilité*
 
-[Accueil](https://oclock.io/) - [Projets](https://oclock.io/) - 
+[Accueil](README.md) - [Projets](projets.md) - 
 [CV](https://oclock.io/) - [Contact](https://oclock.io/)
 
 ## Présentation
