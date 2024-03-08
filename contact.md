@@ -7,12 +7,16 @@
 [Accueil](README.md) - [Projets](projets.md) - 
 [CV](cv.md) - [Contact](contact.md)
 
-## Mes Projets
+## Contact
 
-|Client|Dates|Technologies|Lien|
-|:-:|:-:|:-:|:-:|
-|Microsoft|2022|HTML, SASS, JavaScript|[Microsoft](https://www.microsoft.com/fr-fr/)
-|Google|2021|Node.js|[Google](https://www.google.com/)
-|Mme Michu|2017|HTML, CSS|[Mme Michu](https://en.wiktionary.org/wiki/Madame_Michu)
+N'hésitez pas une seule seconde, contactez-moi !
+
+:mailbox_with_mail:[john.doe@exemple.com](john.doe@exemple.com)
+
+:telephone_receiver:06 06 06 06 06
+
+:necktie:[Linkedin](https://www.linkedin.com/)
+
+:bird:[Twitter](https://twitter.com/?lang=en)
 
 © 2022 - Jogn Doe - [Me contacter](contact.md)

@@ -5,7 +5,7 @@
 *Développeur web junior, en formation "Développement Web et Accessibilité*
 
 [Accueil](README.md) - [Projets](projets.md) - 
-[CV](https://oclock.io/) - [Contact](https://oclock.io/)
+[CV](cv.md) - [Contact](contact.md)
 
 ## Présentation
 
@@ -13,4 +13,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a tempus felis. Int
 
 Fusce quis purus sed mauris iaculis tincidunt. Mauris erat magna, tempor vitae nisi id, euismod cursus eros. Praesent blandit magna felis, vel sagittis velit mollis eu. Suspendisse ultrices nibh vitae ante pellentesque convallis. Sed consectetur urna eu elementum eleifend. Aenean elementum erat nisi, nec venenatis lorem lacinia dignissim. Aliquam ac quam id nunc pharetra efficitur ac ut metus. Vivamus suscipit eros erat, eget eleifend purus suscipit ut. Maecenas id ex a justo varius feugiat. Curabitur rhoncus fringilla molestie.
 
-© 2022 - Jogn Doe - [Me contacter](https://oclock.io/)
+© 2022 - Jogn Doe - [Me contacter](contact.md)
